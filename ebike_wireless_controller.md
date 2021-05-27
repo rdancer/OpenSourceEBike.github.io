@@ -76,7 +76,7 @@ Next I soldered all the wires including the ones of the cable to connect on the 
 See that other than the TSDZ2 display connector wires, there is only need for more five wires. And I could use for sure thinner wires, but I used the ones I had at hand:<br>
 ![](TSDZ2_wireless_board_small-05.jpg)
 
-There is a red LED on the DC-DC board that is always on, to save that power, I simple removed the resistor R4 nard the LED:<br>
+There is a red LED on the DC-DC board that is always on, to save that power, I simple removed the resistor R4 near the LED:<br>
 ![](TSDZ2_wireless_board_small-06.jpg)
 
 Assembly. The holes are for the RGB LED and the button:<br>
